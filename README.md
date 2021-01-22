@@ -35,4 +35,4 @@ If there's a protocol that pays a higher yield in a different type of curreny, A
 **Now Alice can borrow money without missing on the cost of opportunity of farming/staking!**
 
 **Code:**
-- https://flama.loans/
+- flama.loans
