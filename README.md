@@ -1,4 +1,4 @@
-# Lending (+ negative interest feature)
+# Lending with negative interest
 
 We are building a protocol that will allow borrowers to pay negative interest on their loans thanks to farming/staking.
 How can we achieve that? Let’s see that with an example:
